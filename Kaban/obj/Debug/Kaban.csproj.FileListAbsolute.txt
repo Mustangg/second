@@ -1,0 +1,12 @@
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\bin\Debug\Kaban.exe.config
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\bin\Debug\Kaban.exe
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\bin\Debug\Kaban.pdb
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\bin\Debug\MetroFramework.dll
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\obj\Debug\Kaban.csprojAssemblyReference.cache
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\obj\Debug\Kaban.Properties.Resources.resources
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\obj\Debug\Kaban.csproj.GenerateResource.cache
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\obj\Debug\Kaban.csproj.CopyComplete
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\obj\Debug\Kaban.exe
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\obj\Debug\Kaban.pdb
+C:\Users\Vlad-PC\source\repos\Kaban\Kaban\obj\Debug\Kaban.Гипноз.resources
